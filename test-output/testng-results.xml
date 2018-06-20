@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8187" started-at="2018-06-19T16:46:54Z" finished-at="2018-06-19T16:47:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8187" started-at="2018-06-19T16:46:54Z" finished-at="2018-06-19T16:47:03Z">
+      <class name="selenium_Package.auto_sel">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:selenium_Package.auto_sel@48eff760]" name="initialize" is-config="true" duration-ms="2451" started-at="2018-06-19T22:16:54Z" finished-at="2018-06-19T22:16:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:selenium_Package.auto_sel@48eff760]" name="launch" duration-ms="4631" started-at="2018-06-19T22:16:57Z" finished-at="2018-06-19T22:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="close()[pri:0, instance:selenium_Package.auto_sel@48eff760]" name="close" is-config="true" duration-ms="1088" started-at="2018-06-19T22:17:02Z" finished-at="2018-06-19T22:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- selenium_Package.auto_sel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
